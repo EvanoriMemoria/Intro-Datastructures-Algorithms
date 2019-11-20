@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=arr
+comment0.target=WordSearch(char[][])
+comment1.params=
+comment1.target=void\ play()
+comment2.params=row\ col\ angle
+comment2.target=boolean\ checkDirec(int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ printArr()
+comment4.params=
+comment4.target=void\ scan()
+numComments=5
